@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Welcome to Dr. Ada</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background: linear-gradient(135deg, #e0f7fa, #f0f8ff);
+    }
+
+    .container {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      max-width: 900px;
+      width: 90%;
+      background: white;
+      border-radius: 20px;
+      box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+      overflow: hidden;
+    }
+
+    .left {
+      flex: 1;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background: #f9fbfc;
+      padding: 2rem;
+    }
+
+    .left img {
+      max-width: 100%;
+      height: auto;
+    }
+
+    .right {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      padding: 2rem;
+    }
+
+    .right h1 {
+      color: #2c3e50;
+      margin-bottom: 1rem;
+      font-size: 2rem;
+    }
+
+    .subtitle {
+      color: #7f8c8d;
+      margin-bottom: 1.5rem;
+      font-size: 1rem;
+      text-align: center;
+      line-height: 1.4;
+    }
+
+    #talkBtn {
+      padding: 1rem 2rem;
+      font-size: 1.2rem;
+      background-color: #27ae60;
+      color: white;
+      border: none;
+      border-radius: 12px;
+      cursor: pointer;
+      transition: background 0.3s ease, transform 0.2s ease;
+    }
+
+    #talkBtn:hover {
+      background-color: #219150;
+      transform: scale(1.05);
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <!-- Left side: Animated doctor GIF -->
+    <div class="left">
+      <img src="doctor.gif" alt="Animated Doctor">
+    </div>
+
+    <!-- Right side: Title + Button -->
+    <div class="right">
+      <h1>Welcome to Dr. Ada</h1>
+      <p class="subtitle">
+        No matter where you are, Prestige Hospital’s assistant Ada is here to serve you and guide you to the nearest branch.
+      </p>
+      <button id="talkBtn">Talk to Doctor Ada</button>
+    </div>
+  </div>
+
+  <script>
+    const talkBtn = document.getElementById('talkBtn');
+    talkBtn.addEventListener('click', () => {
+      window.location.href = '/chat';
+    });
+  </script>
+</body>
+</html>

@@ -1,0 +1,53 @@
+{
+  "emergency_symptoms": [
+    {
+      "symptom": "difficulty breathing",
+      "notes": "Could indicate asthma attack, severe infection, or heart problem. Seek immediate medical attention."
+    },
+    {
+      "symptom": "chest pain",
+      "notes": "Could indicate heart attack or other cardiac issues. Call emergency services immediately."
+    },
+    {
+      "symptom": "persistent vomiting",
+      "notes": "May cause dehydration or indicate serious illness. See a doctor urgently."
+    },
+    {
+      "symptom": "high fever unresponsive to medicine",
+      "notes": "Could indicate severe infection or malaria. Hospital visit is required."
+    },
+    {
+      "symptom": "severe dehydration",
+      "notes": "Signs include extreme thirst, dry mouth, little or no urination. Emergency treatment needed."
+    },
+    {
+      "symptom": "loss of consciousness",
+      "notes": "Can be due to head injury, stroke, or other serious conditions. Call emergency services immediately."
+    },
+    {
+      "symptom": "convulsions or seizures",
+      "notes": "May indicate epilepsy, infection, or other critical conditions. Immediate hospital care required."
+    },
+    {
+      "symptom": "severe bleeding",
+      "notes": "Could result from injury or internal conditions. Apply pressure and get to a hospital urgently."
+    },
+    {
+      "symptom": "sudden weakness or numbness",
+      "notes": "Could indicate stroke. Time is critical; seek emergency care immediately."
+    },
+    {
+      "symptom": "sudden severe headache",
+      "notes": "May indicate stroke, brain hemorrhage, or meningitis. Hospital care required immediately."
+    },
+    {
+      "symptom": "severe abdominal pain",
+      "notes": "Could indicate appendicitis, obstruction, or other critical conditions. Urgent medical attention needed."
+    },
+    {
+      "symptom": "persistent dizziness or fainting",
+      "notes": "May indicate heart or neurological problems. Seek emergency care."
+    }
+  ],
+  "instructions": "If any of these symptoms occur, go to the nearest hospital or call emergency services immediately."
+}

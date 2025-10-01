@@ -1,0 +1,54 @@
+{
+  "malaria": {
+    "mild_symptoms": ["rest", "drink fluids", "paracetamol for fever"],
+    "warning": "This is not a cure; see a doctor immediately for testing and treatment."
+  },
+  "common_cold": {
+    "mild_symptoms": ["rest", "drink warm water", "herbal teas (ginger, lemon, honey)"],
+    "notes": "Symptoms usually resolve within a week."
+  },
+  "fever": {
+    "mild_symptoms": ["drink water", "cool compress", "paracetamol if needed"],
+    "notes": "Monitor for worsening signs like persistent high fever."
+  },
+  "cough": {
+    "mild_symptoms": ["honey", "steam inhalation", "avoid smoke and dust"],
+    "notes": "See a doctor if cough lasts more than 2 weeks or worsens."
+  },
+  "headache": {
+    "mild_symptoms": ["rest in a quiet dark room", "drink water", "light stretching or relaxation techniques"],
+    "notes": "Seek medical attention if headaches are severe, sudden, or accompanied by vision changes."
+  },
+  "back_pain": {
+    "mild_symptoms": ["gentle stretching", "warm compress", "avoid heavy lifting"],
+    "notes": "Consult a doctor if pain persists for more than a few weeks or is severe."
+  },
+  "stomach_ache": {
+    "mild_symptoms": ["drink warm water", "eat bland foods", "avoid spicy or fatty meals"],
+    "notes": "See a doctor if pain is severe, persistent, or accompanied by vomiting/blood."
+  },
+  "toothache": {
+    "mild_symptoms": ["rinse mouth with warm salt water", "over-the-counter pain relief", "cold compress externally"],
+    "notes": "Dental check-up is recommended for lasting relief."
+  },
+  "muscle_soreness": {
+    "mild_symptoms": ["gentle stretching", "massage", "warm bath or heat pad"],
+    "notes": "Usually improves in a few days with rest."
+  },
+  "sprain_or_strain": {
+    "mild_symptoms": ["rest the joint", "apply ice", "elevate limb", "compression bandage if needed"],
+    "notes": "See a doctor if swelling is severe or movement is impaired."
+  },
+  "allergic_reaction": {
+    "mild_symptoms": ["avoid allergen", "antihistamine", "cool compress for skin irritation"],
+    "warning": "Seek immediate medical attention for difficulty breathing, swelling of face or throat."
+  },
+  "diarrhea": {
+    "mild_symptoms": ["drink oral rehydration solution", "eat light foods like rice or bananas", "avoid dairy and greasy foods"],
+    "notes": "See a doctor if diarrhea is severe, persistent, or contains blood."
+  },
+  "constipation": {
+    "mild_symptoms": ["drink plenty of water", "increase fiber intake", "gentle exercise"],
+    "notes": "Consult a doctor if constipation persists for more than a week or is accompanied by severe pain."
+  }
+}

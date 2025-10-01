@@ -1,0 +1,138 @@
+[
+  {
+    "name": "Harare Central Hospital",
+    "type": "hospital",
+    "address": "1 Park Lane, Harare, Zimbabwe",
+    "latitude": -17.8252,
+    "longitude": 31.0335,
+    "phone": "+263-4-123456"
+  },
+  {
+    "name": "Parirenyatwa Group Hospital",
+    "type": "hospital",
+    "address": "Hospital Rd, Harare, Zimbabwe",
+    "latitude": -17.8231,
+    "longitude": 31.0337,
+    "phone": "+263-4-748111"
+  },
+  {
+    "name": "West End Clinic",
+    "type": "clinic",
+    "address": "42 West End, Harare, Zimbabwe",
+    "latitude": -17.8212,
+    "longitude": 31.0299,
+    "phone": "+263-4-123457"
+  },
+  {
+    "name": "Bulawayo Central Hospital",
+    "type": "hospital",
+    "address": "52 Joshua Mqabuko Nkomo St, Bulawayo, Zimbabwe",
+    "latitude": -20.1422,
+    "longitude": 28.5842,
+    "phone": "+263-9-123456"
+  },
+  {
+    "name": "Mpilo Central Hospital",
+    "type": "hospital",
+    "address": "Mpilo Rd, Bulawayo, Zimbabwe",
+    "latitude": -20.1511,
+    "longitude": 28.5765,
+    "phone": "+263-9-765432"
+  },
+  {
+    "name": "Bulawayo Clinic",
+    "type": "clinic",
+    "address": "18 Robert Mugabe Way, Bulawayo, Zimbabwe",
+    "latitude": -20.1455,
+    "longitude": 28.5830,
+    "phone": "+263-9-123457"
+  },
+  {
+    "name": "Marondera General Hospital",
+    "type": "hospital",
+    "address": "Mutoko Rd, Marondera, Zimbabwe",
+    "latitude": -18.1863,
+    "longitude": 31.5512,
+    "phone": "+263-26-234567"
+  },
+  {
+    "name": "Mutare Provincial Hospital",
+    "type": "hospital",
+    "address": "Mutare St, Mutare, Zimbabwe",
+    "latitude": -18.9707,
+    "longitude": 32.6706,
+    "phone": "+263-20-234567"
+  },
+  {
+    "name": "Gweru Central Hospital",
+    "type": "hospital",
+    "address": "54 Midlands Rd, Gweru, Zimbabwe",
+    "latitude": -19.4521,
+    "longitude": 29.8165,
+    "phone": "+263-54-234567"
+  },
+  {
+    "name": "Masvingo General Hospital",
+    "type": "hospital",
+    "address": "Chirumhanzu St, Masvingo, Zimbabwe",
+    "latitude": -20.0646,
+    "longitude": 30.8333,
+    "phone": "+263-39-234567"
+  },
+  {
+    "name": "Chinhoyi Provincial Hospital",
+    "type": "hospital",
+    "address": "1 Hospital Rd, Chinhoyi, Zimbabwe",
+    "latitude": -17.3665,
+    "longitude": 30.2049,
+    "phone": "+263-67-234567"
+  },
+  {
+    "name": "Karoi General Hospital",
+    "type": "hospital",
+    "address": "4 Main St, Karoi, Zimbabwe",
+    "latitude": -16.8121,
+    "longitude": 29.6895,
+    "phone": "+263-67-345678"
+  },
+  {
+    "name": "Kadoma General Hospital",
+    "type": "hospital",
+    "address": "8 Kaguvi St, Kadoma, Zimbabwe",
+    "latitude": -18.3297,
+    "longitude": 29.9125,
+    "phone": "+263-9-345678"
+  },
+  {
+    "name": "Zvishavane District Hospital",
+    "type": "hospital",
+    "address": "7 Zvishavane Rd, Zvishavane, Zimbabwe",
+    "latitude": -20.3278,
+    "longitude": 30.0215,
+    "phone": "+263-39-345678"
+  },
+  {
+    "name": "Chegutu District Hospital",
+    "type": "hospital",
+    "address": "12 Main St, Chegutu, Zimbabwe",
+    "latitude": -18.1231,
+    "longitude": 30.1420,
+    "phone": "+263-67-456789"
+  },
+  {
+    "name": "Redcliff Clinic",
+    "type": "clinic",
+    "address": "5 Highlands Rd, Redcliff, Zimbabwe",
+    "latitude": -19.0432,
+    "longitude": 29.7885,
+    "phone": "+263-54-456789"
+  },
+  {
+    "name": "Bindura General Hospital",
+    "type": "hospital",
+    "address": "10 Main St, Bindura, Zimbabwe",
+    "latitude": -17.3015,
+    "longitude": 31.3421,
+    "phone": "+263-67-567890"
+  }
+]

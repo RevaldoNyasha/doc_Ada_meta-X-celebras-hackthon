@@ -1,0 +1,132 @@
+[
+  {
+    "name": "24/7 Pharmacy",
+    "type": "pharmacy",
+    "address": "789 Oak St, Harare, Zimbabwe",
+    "latitude": -17.8255,
+    "longitude": 31.0338,
+    "phone": "+263-4-123459",
+    "medicines": [
+      {"name": "Paracetamol 500mg", "price": 5.00},
+      {"name": "Amoxicillin 250mg", "price": 12.50},
+      {"name": "Ibuprofen 200mg", "price": 8.00}
+    ]
+  },
+  {
+    "name": "Harare Pharmacy",
+    "type": "pharmacy",
+    "address": "3 Park Lane, Harare, Zimbabwe",
+    "latitude": -17.8254,
+    "longitude": 31.0337,
+    "phone": "+263-4-123458",
+    "medicines": [
+      {"name": "Cough Syrup 100ml", "price": 15.00},
+      {"name": "Vitamin C 500mg", "price": 10.00},
+      {"name": "Loperamide 2mg", "price": 7.50}
+    ]
+  },
+  {
+    "name": "Bulawayo Central Pharmacy",
+    "type": "pharmacy",
+    "address": "22 8th Ave, Bulawayo, Zimbabwe",
+    "latitude": -20.1410,
+    "longitude": 28.5845,
+    "phone": "+263-9-234567",
+    "medicines": [
+      {"name": "Paracetamol 500mg", "price": 5.50},
+      {"name": "Diclofenac 50mg", "price": 12.00},
+      {"name": "Amoxicillin 500mg", "price": 15.00}
+    ]
+  },
+  {
+    "name": "Mutare Health Pharmacy",
+    "type": "pharmacy",
+    "address": "Mutare St, Mutare, Zimbabwe",
+    "latitude": -18.9707,
+    "longitude": 32.6706,
+    "phone": "+263-20-234567",
+    "medicines": [
+      {"name": "Cough Syrup 100ml", "price": 16.00},
+      {"name": "Ibuprofen 200mg", "price": 8.50},
+      {"name": "Vitamin C 500mg", "price": 10.50}
+    ]
+  },
+  {
+    "name": "Gweru Central Pharmacy",
+    "type": "pharmacy",
+    "address": "54 Midlands Rd, Gweru, Zimbabwe",
+    "latitude": -19.4521,
+    "longitude": 29.8165,
+    "phone": "+263-54-234567",
+    "medicines": [
+      {"name": "Paracetamol 500mg", "price": 5.00},
+      {"name": "Metformin 500mg", "price": 20.00},
+      {"name": "Aspirin 75mg", "price": 7.00}
+    ]
+  },
+  {
+    "name": "Masvingo Care Pharmacy",
+    "type": "pharmacy",
+    "address": "Chirumhanzu St, Masvingo, Zimbabwe",
+    "latitude": -20.0646,
+    "longitude": 30.8333,
+    "phone": "+263-39-234567",
+    "medicines": [
+      {"name": "Cough Syrup 100ml", "price": 14.50},
+      {"name": "Amoxicillin 250mg", "price": 12.50},
+      {"name": "Ibuprofen 200mg", "price": 8.00}
+    ]
+  },
+  {
+    "name": "Chinhoyi Wellness Pharmacy",
+    "type": "pharmacy",
+    "address": "1 Hospital Rd, Chinhoyi, Zimbabwe",
+    "latitude": -17.3665,
+    "longitude": 30.2049,
+    "phone": "+263-67-234567",
+    "medicines": [
+      {"name": "Paracetamol 500mg", "price": 5.00},
+      {"name": "Loperamide 2mg", "price": 7.50},
+      {"name": "Vitamin D 1000IU", "price": 18.00}
+    ]
+  },
+  {
+    "name": "Kadoma Health Pharmacy",
+    "type": "pharmacy",
+    "address": "8 Kaguvi St, Kadoma, Zimbabwe",
+    "latitude": -18.3297,
+    "longitude": 29.9125,
+    "phone": "+263-9-345678",
+    "medicines": [
+      {"name": "Amoxicillin 500mg", "price": 15.00},
+      {"name": "Diclofenac 50mg", "price": 12.00},
+      {"name": "Vitamin C 500mg", "price": 10.00}
+    ]
+  },
+  {
+    "name": "Zvishavane Care Pharmacy",
+    "type": "pharmacy",
+    "address": "7 Zvishavane Rd, Zvishavane, Zimbabwe",
+    "latitude": -20.3278,
+    "longitude": 30.0215,
+    "phone": "+263-39-345678",
+    "medicines": [
+      {"name": "Paracetamol 500mg", "price": 5.50},
+      {"name": "Ibuprofen 200mg", "price": 8.00},
+      {"name": "Amoxicillin 250mg", "price": 12.00}
+    ]
+  },
+  {
+    "name": "Chegutu Family Pharmacy",
+    "type": "pharmacy",
+    "address": "12 Main St, Chegutu, Zimbabwe",
+    "latitude": -18.1231,
+    "longitude": 30.1420,
+    "phone": "+263-67-456789",
+    "medicines": [
+      {"name": "Cough Syrup 100ml", "price": 15.00},
+      {"name": "Paracetamol 500mg", "price": 5.00},
+      {"name": "Vitamin C 500mg", "price": 10.00}
+    ]
+  }
+]

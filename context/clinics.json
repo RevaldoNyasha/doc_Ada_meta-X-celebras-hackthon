@@ -1,0 +1,226 @@
+[
+  {
+    "name": "Cimas Healthcare Clinic - Mutare",
+    "type": "clinic",
+    "address": "Mutare, Zimbabwe",
+    "latitude": -18.9707,
+    "longitude": 32.6706,
+    "phone": "+263 20 600 600"
+  },
+  {
+    "name": "Dangamvura Premier Clinic",
+    "type": "clinic",
+    "address": "Dangamvura, Mutare, Zimbabwe",
+    "latitude": -18.9500,
+    "longitude": 32.6500,
+    "phone": "+263 20 600 601"
+  },
+  {
+    "name": "Dovecot Premier Clinic",
+    "type": "clinic",
+    "address": "Dovecot, Mutare, Zimbabwe",
+    "latitude": -18.9400,
+    "longitude": 32.6400,
+    "phone": "+263 20 600 602"
+  },
+  {
+    "name": "Highland Clinic",
+    "type": "clinic",
+    "address": "Highlands, Mutare, Zimbabwe",
+    "latitude": -18.9300,
+    "longitude": 32.6300,
+    "phone": "+263 20 600 603"
+  },
+  {
+    "name": "Mutare New Clinic",
+    "type": "clinic",
+    "address": "Mutare, Zimbabwe",
+    "latitude": -18.9707,
+    "longitude": 32.6706,
+    "phone": "+263 20 600 604"
+  },
+  {
+    "name": "Cimas Healthcare Clinic - Gweru",
+    "type": "clinic",
+    "address": "Gweru, Zimbabwe",
+    "latitude": -19.4500,
+    "longitude": 29.8200,
+    "phone": "+263 54 222 222"
+  },
+  {
+    "name": "Dr J Mukwembi Midlands Obstetrics & Gynaecology Clinic",
+    "type": "clinic",
+    "address": "Gweru, Zimbabwe",
+    "latitude": -19.4600,
+    "longitude": 29.8300,
+    "phone": "+263 54 222 223"
+  },
+  {
+    "name": "Ebenezer Clinic",
+    "type": "clinic",
+    "address": "Gweru, Zimbabwe",
+    "latitude": -19.4700,
+    "longitude": 29.8400,
+    "phone": "+263 54 222 224"
+  },
+  {
+    "name": "Gweru Health Care Centre",
+    "type": "clinic",
+    "address": "Gweru, Zimbabwe",
+    "latitude": -19.4800,
+    "longitude": 29.8500,
+    "phone": "+263 54 222 225"
+  },
+  {
+    "name": "Gweru Premier Dental Clinic",
+    "type": "clinic",
+    "address": "Gweru, Zimbabwe",
+    "latitude": -19.4900,
+    "longitude": 29.8600,
+    "phone": "+263 54 222 226"
+  },
+  {
+    "name": "Chiredzi Clinic",
+    "type": "clinic",
+    "address": "Chiredzi, Zimbabwe",
+    "latitude": -21.0200,
+    "longitude": 31.6700,
+    "phone": "+263 31 600 600"
+  },
+  {
+    "name": "Chiredzi Private Clinic",
+    "type": "clinic",
+    "address": "Chiredzi, Zimbabwe",
+    "latitude": -21.0300,
+    "longitude": 31.6800,
+    "phone": "+263 31 600 601"
+  },
+  {
+    "name": "Cimas Healthcare Clinic - Masvingo",
+    "type": "clinic",
+    "address": "Masvingo, Zimbabwe",
+    "latitude": -20.0700,
+    "longitude": 30.8500,
+    "phone": "+263 39 600 600"
+  },
+  {
+    "name": "Dr Mhangami Surgery",
+    "type": "clinic",
+    "address": "Masvingo, Zimbabwe",
+    "latitude": -20.0800,
+    "longitude": 30.8600,
+    "phone": "+263 39 600 601"
+  },
+  {
+    "name": "Dr Nyawayi Clinic",
+    "type": "clinic",
+    "address": "Masvingo, Zimbabwe",
+    "latitude": -20.0900,
+    "longitude": 30.8700,
+    "phone": "+263 39 600 602"
+  },
+  {
+    "name": "Gozonya Clinic",
+    "type": "clinic",
+    "address": "Masvingo, Zimbabwe",
+    "latitude": -20.1000,
+    "longitude": 30.8800,
+    "phone": "+263 39 600 603"
+  },
+  {
+    "name": "Gundura Health Centre",
+    "type": "clinic",
+    "address": "Masvingo, Zimbabwe",
+    "latitude": -20.1100,
+    "longitude": 30.8900,
+    "phone": "+263 39 600 604"
+  },
+  {
+    "name": "Premier Service Medical Investments Clinic (PSMI) - Chinhoyi",
+    "type": "clinic",
+    "address": "Chinhoyi, Zimbabwe",
+    "latitude": -17.3600,
+    "longitude": 30.1500,
+    "phone": "+263 67 600 600"
+  },
+  {
+    "name": "Rosebirth Clinic",
+    "type": "clinic",
+    "address": "Chinhoyi, Zimbabwe",
+    "latitude": -17.3700,
+    "longitude": 30.1600,
+    "phone": "+263 67 600 601"
+  },
+  {
+    "name": "Rimuka Clinics",
+    "type": "clinic",
+    "address": "Kadoma, Zimbabwe",
+    "latitude": -18.3300,
+    "longitude": 29.9000,
+    "phone": "+263 67 600 600"
+  },
+  {
+    "name": "Kadoma Centre Clinic",
+    "type": "clinic",
+    "address": "Kadoma, Zimbabwe",
+    "latitude": -18.3400,
+    "longitude": 29.9100,
+    "phone": "+263 67 600 601"
+  },
+  {
+    "name": "Nectacare Highlands Family Clinic – Zvishavane",
+    "type": "clinic",
+    "address": "Zvishavane, Zimbabwe",
+    "latitude": -20.3200,
+    "longitude": 30.0200,
+    "phone": "+263 51 600 600"
+  },
+  {
+    "name": "Knight Avenue 24hr Medical Centre & Maternity | Chegutu",
+    "type": "clinic",
+    "address": "Chegutu, Zimbabwe",
+    "latitude": -17.3300,
+    "longitude": 30.0600,
+    "phone": "+263 68 600 600"
+  },
+  {
+    "name": "Medi.Hub Clinic",
+    "type": "clinic",
+    "address": "Chegutu, Zimbabwe",
+    "latitude": -17.3400,
+    "longitude": 30.0700,
+    "phone": "+263 68 600 601"
+  },
+  {
+    "name": "Flex Clinic",
+    "type": "clinic",
+    "address": "Bulawayo, Zimbabwe",
+    "latitude": -20.1500,
+    "longitude": 28.5800,
+    "phone": "+263 9 600 600"
+  },
+  {
+    "name": "Luveve Private Clinic",
+    "type": "clinic",
+    "address": "Bulawayo, Zimbabwe",
+    "latitude": -20.1600,
+    "longitude": 28.5900,
+    "phone": "+263 9 600 601"
+  },
+  {
+    "name": "Balm of Hope Clinic",
+    "type": "clinic",
+    "address": "Kadoma, Zimbabwe",
+    "latitude": -18.3500,
+    "longitude": 29.9200,
+    "phone": "+263 67 600 602"
+  },
+  {
+    "name": "RSHM Life Care Centre Clinic",
+    "type": "clinic",
+    "address": "Chinhoyi, Zimbabwe",
+    "latitude": -17.3800,
+    "longitude": 30.1700,
+    "phone": "+263 67 600 603"
+  }
+]

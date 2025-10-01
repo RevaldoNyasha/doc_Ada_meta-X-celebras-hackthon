@@ -1,0 +1,18 @@
+{
+  "malaria": {
+    "symptoms": ["fever", "chills", "headache", "sweating", "nausea", "fatigue"],
+    "notes": "Malaria is common in tropical regions; consult a doctor for testing."
+  },
+  "typhoid": {
+    "symptoms": ["high fever", "abdominal pain", "headache", "loss of appetite", "diarrhea"],
+    "notes": "Spread through contaminated food and water; seek medical attention promptly."
+  },
+  "common_cold": {
+    "symptoms": ["runny nose", "sneezing", "sore throat", "mild fever", "cough"],
+    "notes": "Usually mild; rest and fluids help recovery."
+  },
+  "dengue": {
+    "symptoms": ["high fever", "severe headache", "pain behind eyes", "joint pain", "rash"],
+    "notes": "Mosquito-borne; seek medical attention if severe."
+  }
+}

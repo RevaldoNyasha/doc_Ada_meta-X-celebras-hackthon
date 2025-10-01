@@ -1,0 +1,4 @@
+fastapi
+uvicorn[standard]
+cerebras_cloud_sdk
+python-multipart
