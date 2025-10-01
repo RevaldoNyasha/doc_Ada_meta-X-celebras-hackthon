@@ -61,9 +61,13 @@ Python Multipart: Handles multipart/form-data requests.
 ..............................................................
 
 How to Run
+
 Local Development
+
 pip install -r requirements.txt
-python Doctor.py
+
+
+run the  Doctor.py
 
 
 Open http://127.0.0.1:8000
@@ -72,5 +76,6 @@ Open http://127.0.0.1:8000
 Docker Deployment
 docker build -t doctor-chatbot .
 docker run -p 8000:8000 doctor-chatbot
+
 
 
