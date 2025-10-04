@@ -73,9 +73,7 @@ run the  Doctor.py
 Open http://127.0.0.1:8000
  in your browser to access the chatbot.
 
-Docker Deployment
-docker build -t doctor-chatbot .
-docker run -p 8000:8000 doctor-chatbot
+
 
 
 
